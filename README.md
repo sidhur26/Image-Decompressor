@@ -39,6 +39,9 @@ The final design met all specified requirements, demonstrating efficient decodin
 ### Repository Contents
 
 rtl/: Contains the base Verilog code for the project.
+
 sw/: Includes the software model for the image decoder.
+
 tb/: Testbenches for system verification and testing.
+
 doc/: Documentation and detailed report on the project.
